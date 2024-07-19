@@ -5,7 +5,7 @@ markdown_0719
 $ x^2 + y^2 = z^2  $
 
 $$
- \sum+{i=1}^{n}i
+ \sum_{i=1}^{n}i = \frac{n(n+1)}
 $$
 
 
