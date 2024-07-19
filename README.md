@@ -1,6 +1,14 @@
 # markdown_0719
 markdown_0719
 
+### 5. 목록
+#### 순서 있는 목록
+1. 목록1
+2. 목록2
+3. 목록3
+4. 목록4
+
+### 4. 코드 블록
 ```JAVA
 public class Hello{
   public static void main(String []args){
