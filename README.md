@@ -1,6 +1,10 @@
 # markdown_0719
 markdown_0719
 
+### 8. 같은 페이지 내 링크
+```[4]```
+
+
 ### 7. 하이퍼링크
 ``` [링크텍스트](링크 url "설명")```
 
@@ -35,6 +39,7 @@ markdown_0719
 4. 목록4
 
 ### 4. 코드 블록
+# 4
 ```JAVA
 public class Hello{
   public static void main(String []args){
