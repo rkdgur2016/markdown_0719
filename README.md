@@ -2,7 +2,7 @@
 markdown_0719
 
 ### 12. 이미지 링크
-
+![](https://github.com/rkdgur2016/markdown_0719/blob/main/logo.png "수업자료 link")
 
 ### 11. 수학 수기 : LaTex 구문
 $ x^2 + y^2 = z^2  $
